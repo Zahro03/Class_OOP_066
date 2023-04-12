@@ -26,7 +26,7 @@ void Mahasiswa :: printData() {
 }
 
 class mataKuliah { 
-private:
+private: 
 	string kode;
 	string namaMK;
 	int sks;
