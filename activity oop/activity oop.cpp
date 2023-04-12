@@ -25,7 +25,7 @@ void Mahasiswa :: printData() {
 	cout << "\nNIlai : " << nilai;
 }
 
-class mataKuliah {
+class mataKuliah { 
 private:
 	string kode;
 	string namaMK;
