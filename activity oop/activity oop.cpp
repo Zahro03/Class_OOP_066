@@ -7,7 +7,7 @@ private:
 	string nama;
 	float nilai;
 public: 
-	void input() {
+	void input() { 
 		cout << "Masukan NIM : ";
 		cin >> nim;
 		cout << "Masukan Nama : ";
